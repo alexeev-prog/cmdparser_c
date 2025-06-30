@@ -1,5 +1,5 @@
 /**
- * @file parser.c
+ * @file cmdparser.h
  * @author Alexeev Bronislav
  * @brief Command line arguments parser
  * @version 0.1
@@ -48,6 +48,11 @@ struct CLIMetadata {
 typedef struct CommandOption CMDOption[];
 typedef struct CLIMetadata ProgramInfo[];
 
+/**
+ * @brief
+ *
+ * @param meta
+ **/
 void print_help(struct CLIMetadata* meta) {
     printf("%s\n", meta->description);
 

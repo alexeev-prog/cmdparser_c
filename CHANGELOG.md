@@ -1,3 +1,9 @@
+commit 013c64fd054ec6d33caa893ec766a8d151fc5a60
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jun 27 00:40:20 2025 +0700
+
+    remove trash
+
 commit ae81a8161a56a6eaf97b1692a0e3f0d1527a567e
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Fri Jun 27 00:35:01 2025 +0700

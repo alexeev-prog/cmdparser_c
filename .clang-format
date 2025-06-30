@@ -1,5 +1,5 @@
 ---
-Language: Cpp
+Language: C
 AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
 AlignArrayOfStructures: None
@@ -261,7 +261,7 @@ SpacesInParensOptions:
   InEmptyParentheses: false
   Other: false
 SpacesInSquareBrackets: false
-Standard: Auto
+Standard: C17
 StatementAttributeLikeMacros:
   - Q_EMIT
 StatementMacros:

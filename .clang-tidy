@@ -139,7 +139,7 @@ CheckOptions:
   - key: 'readability-identifier-naming.TemplateTemplateParameterCase'
     value: 'CamelCase'
   - key: 'readability-identifier-naming.TypeAliasCase'
-    value: 'lower_case'
+    value: 'CamelCase'
   - key: 'readability-identifier-naming.TypedefCase'
     value: 'CamelCase'
   - key: 'readability-identifier-naming.TypeTemplateParameterCase'
