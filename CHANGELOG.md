@@ -1,3 +1,9 @@
+commit 6b464390fadefd0d66e6befbef902372cf327c30
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Mon Jun 30 07:19:12 2025 +0700
+
+    fix linters config, fix code style
+
 commit 013c64fd054ec6d33caa893ec766a8d151fc5a60
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Fri Jun 27 00:40:20 2025 +0700

@@ -28,7 +28,6 @@ pkgs.mkShell {
   # XDG_DATA_DIRS = builtins.getEnv "XDG_DATA_DIRS";
   # XDG_RUNTIME_DIRS = "/run/user/1001/";
   shellHook = ''
-    echo "morning.lang Dev Shell"
     # Ensure proper environment setup for GCC and glibc
     # Correct the CXXFLAGS by removing `.dev` from the GCC path
     export CXXFLAGS="-I${pkgs.gcc}/include/c++/${pkgs.gcc.version} -I${pkgs.glibc}/include"
