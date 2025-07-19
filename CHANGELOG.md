@@ -1,3 +1,9 @@
+commit 4017adaa5a153816615677bbbf36089a7d2846ab
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sat Jul 19 19:11:27 2025 +0700
+
+    fix bugs in cmd parser
+
 commit 6b464390fadefd0d66e6befbef902372cf327c30
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Mon Jun 30 07:19:12 2025 +0700
